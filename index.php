@@ -12,7 +12,7 @@
 <meta name="desription" content="SVG path animation tutorial of camera.">
 <meta name="keyword" content="svg,svg path,svg animation,svg animation,svg path animation">
 <meta name="robots" content="index,follow">
-<link rel="canonical" href="http://www.subratadhal.com/svg/camera/" />
+<link rel="canonical" href="http://subratadhal.com/svg/camerasvg/" />
 <link href="css/page.css" rel="stylesheet" type="text/css" />
 <link href="css/style.css" rel="stylesheet" type="text/css" />
 <link href="css/camera.css" rel="stylesheet">
