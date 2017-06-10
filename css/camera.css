@@ -1,0 +1,2482 @@
+.svg-container {
+    border: 1px solid #fff;
+    background:#fff;
+    text-align: center;
+}
+
+@keyframes opacity-change1 {
+    0% {
+        opacity:0;
+        fill-opacity:0;
+        stroke-opacity:1;
+    }
+    50% {
+        opacity:0;
+        fill-opacity:0;
+        stroke-opacity:1;
+    }
+    100% {
+        opacity:0.13;
+        fill-opacity:1;
+        stroke-opacity:0;
+    }
+}
+@keyframes opacity-change {
+    0% {
+        opacity:0;
+        fill-opacity:0
+            stroke-opacity:1;
+    }
+    50% {
+        opacity:0
+            fill-opacity:0;
+        stroke-opacity:1;
+    }
+    100% {
+        opacity:1;
+        fill-opacity:1;
+        stroke-opacity:0;
+    }
+}
+@keyframes opacity-stroke-change {
+    0% {
+        opacity:0;
+        fill-opacity:0
+            stroke-opacity:1;
+    }
+    50% {
+        opacity:0
+            fill-opacity:0;
+        stroke-opacity:1;
+    }
+    100% {
+        opacity:1;
+        fill-opacity:1;
+        stroke-opacity:1;
+    }
+}
+
+.ld1{
+    stroke:#333332; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld1-ext{
+    fill:#333332;
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld2{
+    stroke:#3F3D3D; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld2-ext{
+    fill:#333332;
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld3{
+    stroke:#3E3A3A; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld3-ext{
+    fill:#333332;
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld4{
+    stroke:#3E3A3A; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld4-ext{
+    fill:url(#SVGID_1_);
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld5{
+    stroke:#616160; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld5-ext{
+    fill:url(#SVGID_2_);
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld6{
+    stroke:#30302F; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld6-ext{
+    fill:url(#SVGID_3_);
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld7{
+    stroke:#0D1007; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld7-ext{
+    fill:#0D1007;
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld8{
+    stroke:#575755; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld8-ext{
+    fill:url(#SVGID_4_);
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld9{
+    stroke:#575755; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld9-ext{  
+    fill:url(#SVGID_5_);
+    stroke-width:0;
+    opacity:0.69;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld10{
+    stroke:#30302F; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld10-ext{
+    fill:url(#SVGID_6_);
+    stroke-width:0;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld11{
+    stroke:#010700; 
+    stroke-width:0.8541;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld11-ext{ 
+    fill:#3C3C3B;
+    stroke:#010700; 
+    stroke-width:0.8541;
+    fill-opacity:1;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld12{
+    stroke:#5E5E5D; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld12-ext{ 
+    fill:url(#SVGID_7_);
+    stroke:#010700; 
+    fill-opacity:1;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld13{
+    stroke:#4E504A; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld13-ext{
+    fill:url(#SVGID_8_);
+    stroke:#010700; 
+    fill-opacity:1;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld14{
+    stroke:#444847; 
+    stroke-width:0.8541;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld14-ext{ 
+    fill:url(#SVGID_9_);
+    stroke:#444847; 
+    stroke-width:0.8541;
+    fill-opacity:1;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld15{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    fill-opacity:0;
+    stroke-opacity:1;
+}
+.ld15-ext{
+    fill:url(#SVGID_10_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld16{ 
+    stroke:#8F8F8F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld16-ext{
+    fill:url(#SVGID_11_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld17{ 
+    stroke:#616160; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld17-ext{
+    fill:url(#SVGID_12_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld18{ 
+    stroke:#444443; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld18-ext{
+    fill:#444443;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld19{ 
+    stroke:#444443; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld19-ext{
+    fill:url(#SVGID_13_);
+    fill-opacity:1;
+    stroke="#414140"; 
+    stroke-width="0.8541";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld20{ 
+    stroke:#3C3C3B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld20-ext{
+    fill:url(#SVGID_14_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld21{ 
+    stroke:#6F6F6E; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld21-ext{
+    fill:url(#SVGID_15_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld22{ 
+    stroke:#3C3C3B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld22-ext{
+    fill:url(#SVGID_16_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld23{ 
+    stroke:#ADADAD; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld23-ext{
+    fill:url(#SVGID_17_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld24{ 
+    stroke:#BCBCBB; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld24-ext{
+    fill:url(#SVGID_18_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld25{ 
+    stroke:#6D6D6C; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld25-ext{
+    fill:url(#SVGID_19_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld26{ 
+    stroke:#A5A5A4; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld26-ext{
+    fill:url(#SVGID_20_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld27{ 
+    stroke:#BCBCBB; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld27-ext{
+    fill:url(#SVGID_21_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld28{ 
+    stroke:#3C3C3B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld28-ext{
+    fill:url(#SVGID_22_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld29{ 
+    stroke:#3F3F3E; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld29-ext{
+    fill:url(#SVGID_23_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld30{ 
+    stroke:#BCBCBB; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld30-ext{
+    fill:url(#SVGID_24_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld31{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld31-ext{
+    fill:url(#SVGID_25_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld32{ 
+    stroke:#616160; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld32-ext{
+    fill:url(#SVGID_26_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld33{ 
+    stroke:#3A3938; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld33-ext{
+    fill:url(#SVGID_27_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld34{ 
+    stroke:#3F3F3E; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld34-ext{
+    fill:url(#SVGID_28_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld35{ 
+    stroke:#616160; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld35-ext{
+    fill:url(#SVGID_29_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld36{ 
+    stroke:#797F82; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld36-ext{
+    fill:#797F82;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld37{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld37-ext{
+    fill:#1D1D1B;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld38{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld38-ext{
+    fill:url(#SVGID_30_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld39{ 
+    stroke:#30302F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld39-ext{
+    fill:url(#SVGID_31_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld40{ 
+    stroke:#6F6F6E; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld40-ext{
+    fill:#6F6F6E;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld41{ 
+    stroke:#4F4F4F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld41-ext{
+    fill:url(#SVGID_32_);
+    fill-opacity:1;
+    stroke="#4F4F4F"; 
+    stroke-width="0.8541";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld43{ 
+    stroke:#4A4A49; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld43-ext{
+    fill:url(#SVGID_33_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld44{ 
+    stroke:#060200; 
+    stroke-width:1.2812;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld44-ext{
+    fill:url(#SVGID_34_);
+    fill-opacity:1;
+    stroke="#060200"; 
+    stroke-width="1.2812";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld45{ 
+    stroke:#060200; 
+    stroke-width:0.2135;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld45-ext{
+    fill:url(#SVGID_35_);
+    fill-opacity:1;
+    stroke="#060200"; 
+    stroke-width="0.2135";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld46{ 
+    stroke:#A4A2A2; 
+    stroke-width:0.2135;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld46-ext{
+    fill:url(#SVGID_36_);
+    fill-opacity:1;
+    stroke="#A4A2A2"; 
+    stroke-width="0.2135";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld47{ 
+    stroke:#A09D9E; 
+    stroke-width:0.2135;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld47-ext{
+    fill:url(#SVGID_37_);
+    fill-opacity:1;
+    stroke="#A09D9E"; 
+    stroke-width="0.2135";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld48{ 
+    stroke:#030000; 
+    stroke-width:0.2135;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld48-ext{
+    fill:url(#SVGID_38_);
+    fill-opacity:1;
+    stroke="#030000"; 
+    stroke-width="0.2135";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld49{ 
+    stroke:#646463; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld49-ext{
+    fill:url(#SVGID_39_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld50{ 
+    stroke:#1D1D1B; 
+    stroke-width:0.6406;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld50-ext{
+    fill:url(#SVGID_40_);
+    fill-opacity:1;
+    stroke="#1D1D1B"; 
+    stroke-width="0.6406";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld51{ 
+    stroke:#010000; 
+    stroke-width:0.2135;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld51-ext{
+    fill:url(#SVGID_41_);
+    fill-opacity:1;
+    stroke="#010000"; 
+    stroke-width="0.2135";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld52{ 
+    stroke:#8D8D8D; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld52-ext{
+    fill:url(#SVGID_42_);
+    fill-opacity:1;
+    stroke="#8D8D8D"; 
+    stroke-width="0.8541";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld53{ 
+    stroke:#010000; 
+    stroke-width:0.4271;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld53-ext{
+    fill:url(#SVGID_43_);
+    fill-opacity:1;
+    stroke="#010000"; 
+    stroke-width="0.4271";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld54{ 
+    stroke:#030000; 
+    stroke-width:0.4271;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld54-ext{
+    fill:url(#SVGID_44_);
+    fill-opacity:1;
+    stroke="#4F4F4E"; 
+    stroke-width="0.4271";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld55{ 
+    stroke:#777776; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld55-ext{
+    fill:url(#SVGID_45_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld56{ 
+    stroke:#4F4F4E; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld56-ext{
+    /*fill:#616160;
+    fill-opacity:1;*/
+    stroke="#4F4F4E"; 
+    stroke-width="0.8541";
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld57{ 
+    stroke:#CAC9C9; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld57-ext{
+    fill:url(#SVGID_46_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld58{ 
+    stroke:#30302F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld58-ext{
+    fill:url(#SVGID_47_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld59{ 
+    stroke:#30302F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld59-ext{
+    fill:url(#SVGID_48_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld60{ 
+    stroke:#6A6A6A; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld60-ext{
+    fill:url(#SVGID_49_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld61{ 
+    stroke:#636362; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld61-ext{
+    fill:url(#SVGID_50_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld62{ 
+    stroke:#414140; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld62-ext{
+    fill:url(#SVGID_51_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld63{ 
+    stroke:#A2A2A2; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld63-ext{
+    fill:url(#SVGID_52_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld64{ 
+    stroke:#666565; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld64-ext{
+    fill:url(#SVGID_53_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld65{ 
+    stroke:#DFDFDE; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld65-ext{
+    fill:url(#SVGID_54_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld66{ 
+    stroke:#5C5C5B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld66-ext{
+    fill:url(#SVGID_55_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld67{ 
+    stroke:#20201E; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld67-ext{
+    fill:url(#SVGID_56_);
+    stroke:#20201E; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld68{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld68-ext{
+    fill:url(#SVGID_57_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld69{ 
+    stroke:#727271; 
+    stroke-width:0.3416;
+    stroke-opacity:0.49;
+    fill-opacity:0;
+}
+.ld69-ext{
+    stroke:#727271; 
+    fill-opacity:0;
+    stroke-width:0.3416;
+    stroke-opacity:0.49;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld71{ 
+    stroke:#727271; 
+    stroke-width:0.6833;
+    stroke-opacity:0.5;
+    fill-opacity:0;
+}
+.ld71-ext{
+    stroke:#727271; 
+    fill-opacity:0;
+    stroke-width:0.6833;
+    stroke-opacity:0.5;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld72{ 
+    stroke:#727271; 
+    stroke-width:0.8541;
+    stroke-opacity:0.5;
+    fill-opacity:0;
+}
+.ld72-ext{
+    fill:url(#SVGID_58_); 
+    fill-opacity:0.5; 
+    stroke:#727271; 
+    stroke-width:0.8541;
+    stroke-opacity:0.5;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld73{ 
+    stroke:#828281; 
+    stroke-width:0.8541;
+    stroke-opacity:0.5;
+    fill-opacity:0;
+}
+.ld73-ext{
+    fill:#616160; 
+    fill-opacity:0.5; 
+    stroke:#828281; 
+    stroke-width:0.8541;
+    stroke-opacity:0.5;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld74{ 
+    stroke:#4A4A49; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld74-ext{
+    fill:url(#SVGID_59_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld75{ 
+    stroke:#D2C480; 
+    stroke-width:0.4271;
+    stroke-opacity:0.2;
+    fill-opacity:0;
+}
+.ld75-ext{
+    fill:#D2C480; 
+    fill-opacity:0.2; 
+    stroke:#FFFFFF; 
+    stroke-width:0.4271;
+    stroke-opacity:0.2;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld76{ 
+    stroke:#C8BA73; 
+    stroke-width:1;
+    stroke-opacity:0.25;
+    fill-opacity:0;
+}
+.ld76-ext{
+    fill:url(#SVGID_60_);
+    fill-opacity:0.25;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld77{ 
+    stroke:#C8BA73; 
+    stroke-width:1;
+    stroke-opacity:0.5;
+    fill-opacity:0;
+}
+.ld77-ext{
+    fill:url(#SVGID_61_);
+    fill-opacity:0.5;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld78,
+.ld79{ 
+    stroke:#EEDD8E; 
+    stroke-width:0.4271;
+    stroke-opacity:0.2;
+    fill-opacity:0;
+}
+.ld78-ext,
+.ld79-ext{
+    fill:#EEDD8E; 
+    fill-opacity:0.2; 
+    stroke:#FFFFFF; 
+    stroke-width:0.4271;
+    stroke-opacity:0.2;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld80{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld80-ext{
+    fill:url(#SVGID_62_);
+    fill-opacity:0.25;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+/*
+.ld83{ 
+        stroke:#888887; 
+        stroke-width:1;
+        stroke-opacity:1;
+        fill-opacity:0;
+        }
+.ld83-ext{
+        fill:url(#SVGID_65_);
+        fill-opacity:0.25;
+        stroke-opacity:0;
+        animation-name: opacity-change;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+}
+.ld84{ 
+        stroke:#5E5E5D; 
+        stroke-width:1;
+        stroke-opacity:1;
+        fill-opacity:0;
+        }
+.ld84-ext{
+        fill:url(#SVGID_65_);
+        fill-opacity:0.25;
+        stroke-opacity:0;
+        animation-name: opacity-change;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+}
+.ld85{ 
+        stroke:#5E5E5D; 
+        stroke-width:1;
+        stroke-opacity:1;
+        fill-opacity:0;
+        }
+.ld85-ext{
+        fill:url(#SVGID_67_);
+        fill-opacity:0.25;
+        stroke-opacity:0;
+        animation-name: opacity-change;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+}
+.ld86{ 
+        stroke:#5E5E5D; 
+        stroke-width:1;
+        stroke-opacity:1;
+        fill-opacity:0;
+        }
+.ld86-ext{
+        fill:url(#SVGID_68_);
+        fill-opacity:0.25;
+        stroke-opacity:0;
+        animation-name: opacity-change;
+        animation-duration: 3s;
+        animation-iteration-count: 1;
+}
+*/
+.canoninc{ 
+    stroke:none; 
+    stroke-width:0;
+    stroke-opacity:1;
+    fill:#FFFFFF;
+    font-size:5.9788px;
+    font-family:'ErasITC-Medium';
+}
+.dtext{
+    stroke:#FFFFFF;
+    stroke-width:0.8541;
+    stroke-opacity:0.65;
+    fill:#FFFFFF;
+    font-size:13.2088px;
+    font-family:'ErasITC-Medium';
+}	
+
+.ld87{
+    stroke:#1D1D1B;
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:1;
+    fill: none;
+}
+.ld87-ext{
+    fill:#1D1D1B;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld88{
+    stroke:#1D1D1B;
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:1;
+    fill: none;
+}
+.ld88-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.96;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld89{
+    stroke:#1D1D1B;
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:1;
+    fill: none;
+}
+.ld89-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.87;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld90{
+    stroke:#1D1D1B;
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:1;
+    fill: none;
+}
+.ld90-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.78;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld91{
+    stroke:#1D1D1B;
+    stroke-width:0.25;
+    stroke-opacity:1;
+    fill-opacity:0;
+    fill: none;
+    font-family:'ErasITC-Medium';
+}
+.ld91-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.74;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld92{
+    stroke:#1D1D1B;
+    stroke-width:0.74;
+    stroke-opacity:1;
+    fill-opacity:0;
+    fill: none;
+}
+.ld92-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.74;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld93{
+    stroke:#1D1D1B;
+    stroke-width:0.74;
+    stroke-opacity:1;
+    fill-opacity:0;
+    fill: none;
+    font-family:'Myriad-Roman';
+    font-size:6.1962px;
+}
+.ld93-ext{
+    fill:#ffffff;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld94{ 
+    stroke:#363635; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld94-ext{
+    fill:#ffffff;
+    fill-opacity:0.33;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld95{ 
+    stroke:#363635; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld95-ext{
+    fill:#ffffff;
+    fill-opacity:0.68;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld96{ 
+    stroke:#363635; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld96-ext{
+    fill:#ffffff;
+    fill-opacity:0.95;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld97{ 
+    stroke:#363635; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld97-ext{
+    fill:#ffffff;
+    fill-opacity:0.85;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld98{ 
+    stroke:#F9F9FB; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld98-ext{
+    fill:#F9F9FB;
+    fill-opacity:0.77;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld99{ 
+    stroke:#F9F9FB; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld99-ext{
+    fill:#ffffff;
+    fill-opacity:0.75;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld100{ 
+    stroke:#999999; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld100-ext{
+    fill:#333;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld101{ 
+    stroke:#999999; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld101-ext{
+    fill:#ffffff;
+    fill-opacity:0.95;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+
+.ld129{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld129-ext{
+    fill:url(#SVGID_98_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld130{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld130-ext{
+    fill:url(#SVGID_97_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld131{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld131-ext{
+    fill:url(#SVGID_96_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld132{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld132-ext{
+    fill:url(#SVGID_95_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld133{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld133-ext{
+    fill:url(#SVGID_94_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld134{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld134-ext{
+    fill:url(#SVGID_93_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld135{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld135-ext{
+    fill:url(#SVGID_92_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld136{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld136-ext{
+    fill:url(#SVGID_91_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld137{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld137-ext{
+    fill:url(#SVGID_90_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld138{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld138-ext{
+    fill:url(#SVGID_89_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld139{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld139-ext{
+    fill:url(#SVGID_88_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld140{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld140-ext{
+    fill:url(#SVGID_87_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld141{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld141-ext{
+    fill:url(#SVGID_86_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld142{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld142-ext{
+    fill:url(#SVGID_85_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld143{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld143-ext{
+    fill:url(#SVGID_84_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld144{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld144-ext{
+    fill:url(#SVGID_83_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld145{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld145-ext{
+    fill:url(#SVGID_82_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld146{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld146-ext{
+    fill:url(#SVGID_81_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld147{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld147-ext{
+    fill:url(#SVGID_80_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld148{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld148-ext{
+    fill:url(#SVGID_79_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld149{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld149-ext{
+    fill:url(#SVGID_78_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld150{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld150-ext{
+    fill:url(#SVGID_77_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld151{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld151-ext{
+    fill:url(#SVGID_76_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld152{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld152-ext{
+    fill:url(#SVGID_75_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld153{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld153-ext{
+    fill:url(#SVGID_74_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld154{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld154-ext{
+    fill:url(#SVGID_73_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld155{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld155-ext{
+    fill:url(#SVGID_72_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld156{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld156-ext{
+    fill:url(#SVGID_71_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld157{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld157-ext{
+    fill:url(#SVGID_70_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld158{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld158-ext{
+    fill:url(#SVGID_69_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld159{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld159-ext{
+    fill:url(#SVGID_67_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld161{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld161-ext{
+    fill:url(#SVGID_68_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld162{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld162-ext{
+    fill:url(#SVGID_65_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld163{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld163-ext{
+    fill:url(#SVGID_66_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld164{ 
+    stroke:#888887; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld164-ext{
+    fill:url(#SVGID_63_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld165{ 
+    stroke:#5E5E5D; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld165-ext{
+    fill:url(#SVGID_64_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld166,
+.ld167{ 
+    stroke:#363635; 
+    stroke-width:0.6406;
+    stroke-opacity:0.77;
+    fill-opacity:0;
+}
+.ld166-ext,
+.ld167-ext{
+    fill:none; 
+    fill-opacity:0.77; 
+    stroke:#FFFFFF; 
+    stroke-width:0.6406;
+    stroke-opacity:0.77;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld168{ 
+    stroke:#363635; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld168-ext{
+    fill:#363635;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld169{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld169-ext{
+    fill:#FFFFFF;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld170{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld170-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.92;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld171{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld171-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.82;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld172{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld172-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.73;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld173{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld173-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.71;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld174{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld174-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.69;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld175{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld175-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.54;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld176{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld176-ext{
+    fill:#FFFFFF;
+    fill-opacity:0.48;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld177{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld177-ext{
+    fill:#797579;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld178{ 
+    stroke:#797579; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld178-ext{
+    fill:#797579;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld179{ 
+    stroke:#1D1D1B; 
+    stroke-width:1;
+    stroke-opacity:0.5;
+    fill-opacity:0.5;;
+}
+.ld179-ext{
+    fill:#1D1D1B;
+    fill-opacity:0.13;
+    stroke-opacity:0;
+    animation-name: opacity-change1;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld180{ 
+    stroke:#453E34; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld180-ext{
+    fill:url(#SVGID_99_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld181{ 
+    stroke:#403A30; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld181-ext{
+    fill:url(#SVGID_100_);
+    fill-opacity:0.88;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld182{ 
+    stroke:#4F483D; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld182-ext{
+    fill:url(#SVGID_101_);
+    fill-opacity:0.88;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld183{ 
+    stroke:#4F483D; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld183-ext{
+    fill:url(#SVGID_102_);
+    fill-opacity:0.35;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld184{ 
+    stroke:#544A43; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld184-ext{
+    fill:url(#SVGID_103_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld185{ 
+    stroke:#544A43; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld185-ext{
+    fill:#544A43;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld186{ 
+    stroke:#736B5E; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld186-ext{
+    fill:#736B5E;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld187{ 
+    stroke:#453E34; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld187-ext{
+    fill:url(#SVGID_104_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld188{ 
+    stroke:#58554A; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld188-ext{
+    fill:#58554A;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld189{ 
+    stroke:#453E34; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld189-ext{
+    fill:url(#SVGID_105_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld190{ 
+    stroke:#191612; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld190-ext{
+    fill:#191612;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld191{ 
+    stroke:#5D5C5F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld191-ext{
+    fill:#5D5C5F;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld192{ 
+    stroke:#3E3A3A; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld192-ext{
+    fill:#3E3A3A;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld193{ 
+    stroke:#747473; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld193-ext{
+    fill:url(#SVGID_106_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld194{ 
+    stroke:#595657; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld194-ext{
+    fill:none; 
+    fill-opacity:0; 
+    stroke:#595657; 
+    stroke-width:0.8541;
+    stroke-opacity:1;
+    animation-name: opacity-stroke-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld195{ 
+    stroke:#8D8D8D; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld195-ext{
+    fill:url(#SVGID_107_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld196{ 
+    stroke:#737373; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld196-ext{
+    fill:url(#SVGID_108_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld197{ 
+    stroke:#1F1F1F; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld197-ext{
+    fill:url(#SVGID_109_);
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld198{ 
+    stroke:#494747; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld198-ext{
+    fill:#494747;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+.ld199{ 
+    stroke:#171411; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld199-ext{
+    fill:#171411;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+.ld200{ 
+    stroke:#F7F6E2; 
+    stroke-width:1;
+    stroke-opacity:1;
+    fill-opacity:0;
+}
+.ld200-ext{
+    fill:#F7F6E2;
+    fill-opacity:1;
+    stroke-opacity:0;
+    animation-name: opacity-change;
+    animation-duration: 3s;
+    animation-iteration-count: 1;
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+
+#svg-div{ width: 990px;  height: 500px;  padding: 10px; overflow: hidden; margin: 0 auto; 
+             -webkit-border-radius: 5px;
+                -moz-border-radius: 5px;
+                     border-radius: 5px;
+                     background-color: #fff;
+                     border:1px solid #ccc;
+}
+
