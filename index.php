@@ -1669,11 +1669,15 @@
             <li>Compatible in Firefox, Safari, Opera</li>
         </ul>
     </article>
-<footer>    
-    <div class="footer">
-    	Designed and Developed by: <a href="http://www.subratadhal.com">subratadhal.com</a>
+    <div class="github-link">
+        <img src="images/github.png" alt=""/>
+        <p> Find the working url on <a href="https://github.com/subratadhal/camerasvg" target="_blank">github.</a></p>
     </div>
-</footer>
+    <footer>    
+        <div class="footer">
+            Designed and Developed by: <a target="_blank" href="http://www.subratadhal.com">subratadhal.com</a>
+        </div>
+    </footer>
     <script src="js/vivus.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script>
